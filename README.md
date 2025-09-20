@@ -195,5 +195,3 @@ If you encounter any issues or have questions:
 - SQLAlchemy for making database operations simple
 
 ---
-
-⭐ **Star this repository if you find it helpful!**
